@@ -8,51 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7a9bb896aa25cd8",
+            "id": "5028c2b6b81b89ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "file": "Sources/_pdf/Tao, Analysis I.pdf"
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
+              "icon": "lucide-file-text",
+              "title": "Tao, Analysis I"
             }
           },
           {
-            "id": "2f137e92fe24d77e",
+            "id": "f4771c521f34a895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "每天实际使用流程（非常关键）.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "每天实际使用流程（非常关键）"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "cccd3910a7d036f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4cd64cde3a8d19b8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "每天实际使用流程（非常关键）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "每天实际使用流程（非常关键） 的反向链接列表"
             }
           },
           {
@@ -144,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "每天实际使用流程（非常关键）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "每天实际使用流程（非常关键） 的出链列表"
             }
           },
           {
@@ -187,16 +169,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "每天实际使用流程（非常关键）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "每天实际使用流程（非常关键） 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -214,9 +197,28 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2f137e92fe24d77e",
+  "active": "f4771c521f34a895",
   "lastOpenFiles": [
-    "欢迎.md",
-    "README.md"
+    "Sources/_pdf/Tao, Analysis I.pdf",
+    "每天实际使用流程（非常关键）.md",
+    "Sources/Axler_LADR/Axler（结构型输入）.md",
+    "README.md",
+    "Theoretical Physics Self-Study Knowledge System.md",
+    "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf",
+    "Sources/Griffiths_EM/Griffiths（物理型输入）.md",
+    "Sources/_pdf",
+    "Sources/Tao_AnalysisI/Tao（训练型输入）.md",
+    "2026-05-22.md",
+    "Sources/_pdf/Griffiths, Introduction to Electrodynamics.pdf",
+    "Sources/学术资源收集.md",
+    "Sources/Reading_Log.md",
+    "Sources/Axler_LADR/chapters",
+    "Reading_Log.md",
+    "未命名.canvas",
+    "Sources/Griffiths_EM",
+    "Sources/Tao_AnalysisI",
+    "Sources/Axler_LADR",
+    "tex",
+    "MOC"
   ]
 }
