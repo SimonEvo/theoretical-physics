@@ -23,3 +23,7 @@ Axler 的内容应该：
 > “从 Sources 迁移到 Concepts 的速度很快”
 
 因为它是语言，不是内容库。
+$$
+\frac{-b \pm \sqrt{ b^2 - 4ac }}{2a}
+$$
+ 

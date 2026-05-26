@@ -8,33 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5028c2b6b81b89ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sources/_pdf/Tao, Analysis I.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Tao, Analysis I"
-            }
-          },
-          {
             "id": "f4771c521f34a895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每天实际使用流程（非常关键）.md",
-                "mode": "preview",
+                "file": "Sources/Axler_LADR/Axler（结构型输入）.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "每天实际使用流程（非常关键）"
+              "title": "Axler（结构型输入）"
+            }
+          },
+          {
+            "id": "7b29c6821467bfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Vector Spaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Spaces"
+            }
+          },
+          {
+            "id": "df795df9766cfccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading_Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reading_Log"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f573bfc3b0334305",
@@ -107,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每天实际使用流程（非常关键）.md",
+                "file": "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "每天实际使用流程（非常关键） 的反向链接列表"
+              "title": "Axler, Linear Aalgebra Done Right 的反向链接列表"
             }
           },
           {
@@ -126,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每天实际使用流程（非常关键）.md",
+                "file": "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "每天实际使用流程（非常关键） 的出链列表"
+              "title": "Axler, Linear Aalgebra Done Right 的出链列表"
             }
           },
           {
@@ -169,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每天实际使用流程（非常关键）.md",
+                "file": "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "每天实际使用流程（非常关键） 的大纲"
+              "title": "Axler, Linear Aalgebra Done Right 的大纲"
             }
           }
         ],
@@ -197,23 +213,61 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f4771c521f34a895",
+  "floating": {
+    "id": "1cd3dca78be596c3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c7d84256b5bca380",
+        "type": "window",
+        "children": [
+          {
+            "id": "6e945b5a32a8da1e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5028c2b6b81b89ec",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Axler, Linear Aalgebra Done Right"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 311,
+        "y": 25,
+        "width": 1304,
+        "height": 960,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5028c2b6b81b89ec",
   "lastOpenFiles": [
-    "Sources/_pdf/Tao, Analysis I.pdf",
-    "每天实际使用流程（非常关键）.md",
-    "Sources/Axler_LADR/Axler（结构型输入）.md",
-    "README.md",
+    "Reading_Log.md",
     "Theoretical Physics Self-Study Knowledge System.md",
+    "Concepts/Vector Spaces.md",
+    "Sources/Axler_LADR/Axler（结构型输入）.md",
+    "Sources/学术资源收集.md",
+    "Sources/Axler_LADR/chapters/Axler Chapter 1 -- Vector Spaces.md",
+    "每天实际使用流程（非常关键）.md",
     "Sources/_pdf/Axler, Linear Aalgebra Done Right.pdf",
+    "Sources/_pdf/Tao, Analysis I.pdf",
+    "README.md",
     "Sources/Griffiths_EM/Griffiths（物理型输入）.md",
     "Sources/_pdf",
     "Sources/Tao_AnalysisI/Tao（训练型输入）.md",
     "2026-05-22.md",
     "Sources/_pdf/Griffiths, Introduction to Electrodynamics.pdf",
-    "Sources/学术资源收集.md",
-    "Sources/Reading_Log.md",
     "Sources/Axler_LADR/chapters",
-    "Reading_Log.md",
     "未命名.canvas",
     "Sources/Griffiths_EM",
     "Sources/Tao_AnalysisI",
